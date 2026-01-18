@@ -155,11 +155,4 @@ Program ini digunakan untuk membuat **QR Code** dari teks atau link yang dimasuk
 * Library eksternal `qrcode`
 * Manipulasi file
 
-
-
-
 ---
-
-## 📄 Lisensi
-
-Bebas digunakan untuk pembelajaran, tugas sekolah/kuliah, dan pengembangan pribadi.
